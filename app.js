@@ -55,6 +55,6 @@ rl.on('close', () => {
              value.change
          );
      });
-    console.log(rankingArray);
+    console.log(rankingStrings);
 });
 
